@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".UsuarioActivity">
+
+    <item
+        app:showAsAction="always"
+        android:icon="@drawable/baseline_menu_24"
+        android:title="">
+        <menu>
+
+            <item
+                android:id="@+id/editar"
+                android:icon="@drawable/editarperfil"
+                android:title="Editar cuenta"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/eliminar"
+                android:icon="@drawable/eliminarperfil"
+                android:title="Eliminar cuenta"
+                app:showAsAction="never" />
+
+        </menu>
+    </item>
+</menu>

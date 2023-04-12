@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763995014882",
+    "project_id": "musicstorehn-4fe87",
+    "storage_bucket": "musicstorehn-4fe87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763995014882:android:f8d7d3576c8f0f9bafc0bb",
+        "android_client_info": {
+          "package_name": "uth.pmo1.musicstorehn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763995014882-aanque7kj2l5jn06t52e5kqpe87bcpqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTxI9IqdIBp_s7115ii5k8H6dxBEta4zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763995014882-aanque7kj2l5jn06t52e5kqpe87bcpqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
